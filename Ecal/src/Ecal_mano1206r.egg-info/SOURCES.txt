@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/Ecal/__init__.py
+src/Ecal/multiareasystem.py
+src/Ecal/series.py
+src/Ecal/shunt.py
+src/Ecal/singleareasystem.py
+src/Ecal/testingtransformer.py
+src/Ecal/threephaseIM.py
+src/Ecal_mano1206r.egg-info/PKG-INFO
+src/Ecal_mano1206r.egg-info/SOURCES.txt
+src/Ecal_mano1206r.egg-info/dependency_links.txt
+src/Ecal_mano1206r.egg-info/top_level.txt

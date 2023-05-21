@@ -1,0 +1,1 @@
+This is a python package to calculate the electrical calculation which provide as an alternative for MATLAB
